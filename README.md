@@ -25,4 +25,4 @@ Step 6: If the value remain consistent for given number of frames, the alarm is
 raised so as to prevent accident.
 
 # To run this code 
-- download this file (https://drive.google.com/drive/folders/1xwzUGqHMG41eXUTnJ-hZsBhiAm083EDi?usp=sharing) , and put it in the same path of GP.ipynb
+- download this file (https://drive.google.com/drive/folders/1bzpqup6g7x5UwKGT7unGm4IaPClvE-YO?usp=sharing) , and put it in the same path of GP.ipynb
